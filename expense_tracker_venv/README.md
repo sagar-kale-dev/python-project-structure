@@ -1,3 +1,31 @@
+## Project Structure
+
+```
+expense_tracker/
+
+├── .venv/
+├── app/
+│   ├── main.py
+│   │
+│   ├── models/
+│   │   └── expense.py
+│   │
+│   ├── services/
+│   │   └── expense_service.py
+│   │
+│   ├── data/
+│   │   └── expenses.py
+│   │
+│   └── utils/
+│       └── formatter.py
+│
+├── tests/
+│
+├── requirements.txt
+└── README.md
+```
+---
+
 ## Create Virtual Environment
 
 ```bash
