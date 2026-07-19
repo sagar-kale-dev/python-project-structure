@@ -33,7 +33,6 @@ expense_tracker/
 │
 ├── tests/
 │
-├── requirements.txt
 └── README.md
 ```
 
